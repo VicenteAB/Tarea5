@@ -17,7 +17,6 @@
                          <th scope="col">Pais</th>
                          <br>
                          <th scope="col">Imagen</th>
-                         <!--Holaaa-->
                       </tr>
                    </thead>
                    <tbody>
@@ -27,6 +26,7 @@
                          <td>{{users.gender}}</td>
                          <br>
                          <td>{{users.location.country}}</td>
+                         <!--npm run dev-->
                       </tr>
                    </tbody>
                 </table>
